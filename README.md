@@ -6,7 +6,7 @@
 </picture>
 
 ---
-🚀 I'm currently learning about data structures amongst other things in uni
+🚀 I'm currently learning about data structures amongst other things in university
 
 ⚡ I enjoy challenging myself with different coding problems
 
